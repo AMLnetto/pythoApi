@@ -1,0 +1,16 @@
+.LoginBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 50vh;
+    border: solid 2px green;
+    border: solid green;
+}
+.LoginItensDiv{
+    display: flex;
+    width: 90%;
+    height: 90%;
+    flex-direction: column;
+    border: solid 2px green;
+}
